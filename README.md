@@ -31,18 +31,6 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
-```
-
-## 🎯 Learning Objectives
-
-This project helped me practice:
-
-* React component architecture
-* React Router navigation
-* Context API state management
-* Form handling
-* Responsive UI development
-* Project organization and scalability
 
 ## 🔮 Future Improvements
 
