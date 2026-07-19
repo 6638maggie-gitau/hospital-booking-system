@@ -40,4 +40,3 @@ src/
 * Backend integration
 * Database support
 * Admin dashboard
-* Notifications and reminders
