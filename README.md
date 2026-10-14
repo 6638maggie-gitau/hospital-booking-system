@@ -13,7 +13,7 @@ A modern React-based hospital appointment booking application that allows patien
 * Clean intuitive user interface
 
 ## 🛠️ Technologies Used
-
+* React
 * JavaScript 
 * Tailwind CSS
 * React Router
