@@ -9,7 +9,7 @@ A modern React-based hospital appointment booking application that allows patien
 * Book appointments online
 * Manage booked appointments
 * Responsive design for desktop and mobile devices
-* State management using React Context API
+* State management  React Context API
 * Clean intuitive user interface
 
 ## 🛠️ Technologies Used
