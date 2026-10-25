@@ -34,7 +34,6 @@ src/
 ## 🔮 Future Improvements
 
 * User authentication
-* Doctor search and filtering
 * Appointment cancellation and rescheduling
 * Backend integration
 * Database support
