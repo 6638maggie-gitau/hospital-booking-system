@@ -1,11 +1,11 @@
-# 🏥 Hospital Booking System
+#  Hospital Booking System
 
 A modern React-based hospital appointment booking application that allows patients to browse doctors, schedule appointments, and manage their bookings through a simple and user-friendly interface.
 
-## 🚀 Features
+##  Features
 
 * Browse available doctors
-*  doctor information and specialties
+* doctor information and specialties
 * Book appointments online
 * Manage booked appointments
 * Responsive design for desktop and mobile devices
