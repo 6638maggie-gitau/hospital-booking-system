@@ -12,7 +12,7 @@ A modern React-based hospital appointment booking application that allows patien
 * State management using React Context API
 * Clean intuitive user interface
 
-## 🛠️ Technologies Used
+## Technologies Used
 * React
 * JavaScript 
 * Tailwind CSS
@@ -20,7 +20,7 @@ A modern React-based hospital appointment booking application that allows patien
 * Context API
   
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 src/
